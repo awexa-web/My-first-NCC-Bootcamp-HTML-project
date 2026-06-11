@@ -12,10 +12,5 @@ Features
 Technologies Used
 - HTML
 
-Live Demo
-https://yourusername.github.io/my-portfolio/
-
-
-
 Author
-Abduljelil Hussein
+Awel Abduljelil
